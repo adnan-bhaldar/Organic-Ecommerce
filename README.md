@@ -8,7 +8,7 @@
   <br />
   <br />
 
-  <h2 align="center">Booken - Book Store Website</h2>
+  <h2 align="center">Organic-Ecommercee Website</h2>
 
   Booken is a fully responsive book store website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
