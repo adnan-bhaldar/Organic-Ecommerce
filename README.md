@@ -20,7 +20,7 @@
 
 ### Demo Screeshots
 
-![Booken Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Organic-Ecommercee Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
